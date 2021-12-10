@@ -1,0 +1,30 @@
+# baseURL = "http://andrewzm.github.io"
+baseURL = "http://andrewzm.github.io/deepspat-website" # local environment has trouble because of the subdomain; change it back for local development.
+languageCode = "en-us"
+title = "Deep Learning for Spatial and Spatio-Temporal Statistics"
+theme = "bigspring-light"
+publishDir = "docs"
+disablePathToLower = true # Do not convert the url/path to lowercase.
+
+
+# Set menu buttons all at once like this (they can also be set individually
+# using a different notation, but I think this is cleanest).
+# Note that "weight" controls the position of the menu items; if it is not
+# provided, the menu is sorted alphabetically.
+[Menus]
+  main = [
+      {Name = "Home", url = "/", identifier = "home", weight = 1},
+      {Name = "The Project", url = "/project", identifier = "project", weight = 2},
+      {Name = "Collaborators and Students", url = "/collaborators", identifier = "collaborators", weight = 3},
+      {Name = "Outputs", url = "/outputs", identifier = "outputs", weight = 4},
+      {Name = "Contact", url = "/contact", identifier = "contact", weight = 5},
+      #{Name = "Github", URL = "https://github.com/andrewzm/"},
+      #{Name = "Email", URL = "mailto:azm@uow.edu.au"}
+  ]
+
+
+[params]
+  description = "DeepSpat description"
+  author = "Andrew Zammit-Mangion"
+  logo = "images/NIASRA-UOW.png"
+  logo_width = "400px"

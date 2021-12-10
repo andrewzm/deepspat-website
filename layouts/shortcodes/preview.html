@@ -1,0 +1,8 @@
+<!-- Requires: title, content (a brief description), link (to project page), images (vector of image paths) -->
+<div>
+    <p style="float:right; padding: 0px 16px 0px 0px;"><img src="/{{ .Get "src" }}" height="225px" width="450px" border="1px"></p>
+    <p> &nbsp;</p>
+    <p><h4>{{ .Get "title" }}</h4></p>
+    <p>{{ .Get "description" }}</p>
+    <a href="{{ .Get "link" | relURL }}" title = "Read more" class="btn-link">Read more <i class="fas fa-arrow-right"></i></a>
+</div>

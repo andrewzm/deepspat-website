@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning for Spatial and Spatio-Temporal Statistics</title>
+    <link>http://andrewzm.github.io/deepspat-website/</link>
+    <description>Recent content on Deep Learning for Spatial and Spatio-Temporal Statistics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 17:55:40 +1100</lastBuildDate><atom:link href="http://andrewzm.github.io/deepspat-website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2</title>
+      <link>http://andrewzm.github.io/deepspat-website/projects/project2/</link>
+      <pubDate>Thu, 02 Dec 2021 17:55:40 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/projects/project2/</guid>
+      <description>Info on project 2.</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>http://andrewzm.github.io/deepspat-website/projects/project1/</link>
+      <pubDate>Thu, 02 Dec 2021 17:55:31 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/projects/project1/</guid>
+      <description>Info on project 1.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://andrewzm.github.io/deepspat-website/contact/</link>
+      <pubDate>Thu, 02 Dec 2021 14:02:30 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/contact/</guid>
+      <description>Andrew&amp;rsquo;s contact details.</description>
+    </item>
+    
+    <item>
+      <title>Outputs</title>
+      <link>http://andrewzm.github.io/deepspat-website/outputs/</link>
+      <pubDate>Thu, 02 Dec 2021 14:02:25 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/outputs/</guid>
+      <description>List of outputs that were funded by DECRA.</description>
+    </item>
+    
+    <item>
+      <title>Collaborators and Students</title>
+      <link>http://andrewzm.github.io/deepspat-website/collaborators/</link>
+      <pubDate>Thu, 02 Dec 2021 14:02:14 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/collaborators/</guid>
+      <description>Collaborators Maurizio Filippone
+James Ng
+Matt Moores
+Chris Wikle
+Noel Cressie
+Nicholas Deutscher
+Dr. Raphael Huser
+Students Laura Cartwright
+ Quan Vu
+Quan is a final-year PhD student at the University of Wollongong, supervised by Dr. Andrew Zammit-Mangion and Prof. Noel Cressie.
+You can discover more about Quan here.
+    Matthew Sainsbury-Dale
+Matthew is a second-year PhD student at the University of Wollongong, supervised by Dr. Andrew Zammit-Mangion and Prof.</description>
+    </item>
+    
+    <item>
+      <title>Project Overview</title>
+      <link>http://andrewzm.github.io/deepspat-website/projects/project-overview/</link>
+      <pubDate>Thu, 02 Dec 2021 14:02:02 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/projects/project-overview/</guid>
+      <description>Overview of the project.
+    &amp;nbsp;
+Project 1
+Description of Project 1.
+Read more         &amp;nbsp;
+Project 1
+Description of Project 1. Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.
+Read more   </description>
+    </item>
+    
+    <item>
+      <title>The Project</title>
+      <link>http://andrewzm.github.io/deepspat-website/project/</link>
+      <pubDate>Thu, 02 Dec 2021 14:02:02 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/project/</guid>
+      <description>This is just a dummy page to act as an anchor for the menu.</description>
+    </item>
+    
+  </channel>
+</rss>
