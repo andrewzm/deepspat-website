@@ -26,7 +26,7 @@ Dr. Raphael Huser
 Laura Cartwright
 
 {{< people
-  src="images/qv.png"
+  src="deepspat-website/images/qv.png"
   firstname="Quan"
   surname="Vu"
   description="is a final-year PhD student at the University of Wollongong, supervised by Dr. Andrew Zammit-Mangion and Prof. Noel Cressie."
@@ -40,7 +40,7 @@ Laura Cartwright
 
 
 {{< people
-  src="images/msd.jpg"
+  src="deepspat-website/images/msd.jpg"
   firstname="Matthew"
   surname="Sainsbury-Dale"
   description="is a second-year PhD student at the University of Wollongong, supervised by Dr. Andrew Zammit-Mangion and Prof. Noel Cressie. In this project, he worked on a framework for parameter estimation using deep neural networks, alongside Dr. Zammit-Mangion and Dr. Huser."
