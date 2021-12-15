@@ -13,9 +13,9 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
 # provided, the menu is sorted alphabetically.
 [Menus]
   main = [
-      {Name = "Home", url = "/", identifier = "home", weight = 1},
+      {Name = "Home", url = "", identifier = "home", weight = 1},
       {Name = "The Project", url = "/project/", identifier = "project", weight = 2},
-      {Name = "Collaborators and Students", url = "/collaborators/", identifier = "collaborators", weight = 3},
+      {Name = "Collaborators and Students", url = "collaborators/", identifier = "collaborators", weight = 3},
       {Name = "Outputs", url = "/outputs/", identifier = "outputs", weight = 4},
       {Name = "Contact", url = "/contact/", identifier = "contact", weight = 5},
       #{Name = "Github", URL = "https://github.com/andrewzm/"},
