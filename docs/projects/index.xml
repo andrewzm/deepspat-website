@@ -25,21 +25,5 @@
       <description>Info on project 1.</description>
     </item>
     
-    <item>
-      <title>Project Overview</title>
-      <link>http://andrewzm.github.io/deepspat-website/projects/project-overview/</link>
-      <pubDate>Thu, 02 Dec 2021 14:02:02 +1100</pubDate>
-      
-      <guid>http://andrewzm.github.io/deepspat-website/projects/project-overview/</guid>
-      <description>Overview of the project.
-    &amp;nbsp;
-Project 1
-Description of Project 1.
-Read more         &amp;nbsp;
-Project 1
-Description of Project 1. Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.
-Read more   </description>
-    </item>
-    
   </channel>
 </rss>
