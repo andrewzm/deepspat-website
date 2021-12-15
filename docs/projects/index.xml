@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Deep Learning for Spatial and Spatio-Temporal Statistics</title>
-    <link>http://andrewzm.github.io/projects/</link>
+    <link>http://andrewzm.github.io/deepspat-website/projects/</link>
     <description>Recent content in Projects on Deep Learning for Spatial and Spatio-Temporal Statistics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 17:55:40 +1100</lastBuildDate><atom:link href="http://andrewzm.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Dec 2021 17:55:40 +1100</lastBuildDate><atom:link href="http://andrewzm.github.io/deepspat-website/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2</title>
-      <link>http://andrewzm.github.io/projects/project2/</link>
+      <link>http://andrewzm.github.io/deepspat-website/projects/project2/</link>
       <pubDate>Thu, 02 Dec 2021 17:55:40 +1100</pubDate>
       
-      <guid>http://andrewzm.github.io/projects/project2/</guid>
+      <guid>http://andrewzm.github.io/deepspat-website/projects/project2/</guid>
       <description>Info on project 2.</description>
     </item>
     
     <item>
       <title>Project 1</title>
-      <link>http://andrewzm.github.io/projects/project1/</link>
+      <link>http://andrewzm.github.io/deepspat-website/projects/project1/</link>
       <pubDate>Thu, 02 Dec 2021 17:55:31 +1100</pubDate>
       
-      <guid>http://andrewzm.github.io/projects/project1/</guid>
+      <guid>http://andrewzm.github.io/deepspat-website/projects/project1/</guid>
       <description>Info on project 1.</description>
     </item>
     
     <item>
       <title>Project Overview</title>
-      <link>http://andrewzm.github.io/projects/project-overview/</link>
+      <link>http://andrewzm.github.io/deepspat-website/projects/project-overview/</link>
       <pubDate>Thu, 02 Dec 2021 14:02:02 +1100</pubDate>
       
-      <guid>http://andrewzm.github.io/projects/project-overview/</guid>
+      <guid>http://andrewzm.github.io/deepspat-website/projects/project-overview/</guid>
       <description>Overview of the project.
     &amp;nbsp;
 Project 1
