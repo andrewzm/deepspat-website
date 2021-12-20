@@ -3,7 +3,7 @@
 banner:
   title : "Deep Learning for Spatial and <br> Spatio-Temporal Statistics"
   image : "images/statsgpu.png"
-  content : "Webpage on work done at the University of Wollongong, Australia, since 2018 on the application of deep learning models to spatial and spatio-temporal statistical models, mostly funded by Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203 awarded to Andrew Zammit-Mangion."
+  content : "Webpage on work done at the University of Wollongong, Australia, since 2018, on the application of deep learning models to spatial and spatio-temporal statistical models. This work was in large part funded by the Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203 awarded to Andrew Zammit-Mangion."
 #  button:
 #    enable : true
 #    label : "Contact Us"
@@ -13,14 +13,14 @@ banner:
 
 ##################### Feature ##########################
 #feature:
-#  enable : true
-#  title : "Something You Need To Know"
-#  feature_item:
-#    # feature item loop
-#    - name : "Clean Code"
-#      icon : "fas fa-code"
-#      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-#
+  enable : true
+  title : "Something You Need To Know"
+  feature_item:
+    # feature item loop
+    - name : "Clean Code"
+      icon : "fas fa-code"
+      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+
 #    # feature item loop
 #    - name : "Object Oriented"
 #      icon : "fas fa-object-group"
