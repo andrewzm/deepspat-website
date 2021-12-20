@@ -10,6 +10,17 @@ banner:
 #    link : "contact"
 
 
+##################### under banner text #####################
+under_banner_text:
+  enable : true
+  title : "About me"
+  image : ""
+  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  button:
+    enable : true
+    label : "Contact me"
+    link : "contact"
+
 
 ##################### Feature ##########################
 #feature:
