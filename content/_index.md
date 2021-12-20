@@ -13,13 +13,13 @@ banner:
 
 ##################### Feature ##########################
 #feature:
-  enable : true
-  title : "Something You Need To Know"
-  feature_item:
-    # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+#  enable : true
+#  title : "Something You Need To Know"
+#  feature_item:
+#    # feature item loop
+#    - name : "Clean Code"
+#      icon : "fas fa-code"
+#      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
 
 #    # feature item loop
 #    - name : "Object Oriented"
