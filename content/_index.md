@@ -3,7 +3,7 @@
 banner:
   title : "Deep Learning for Spatial and <br> Spatio-Temporal Statistics"
   image : "images/statsgpu.png"
-  content : "Webpage on work done at the University of Wollongong, Australia, since 2018 on the application of deep learning models to spatial and spatio-temporal statistical models"
+  content : "Webpage on work done at the University of Wollongong, Australia, since 2018 on the application of deep learning models to spatial and spatio-temporal statistical models, mostly funded by Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203 awarded to Andrew Zammit-Mangion."
 #  button:
 #    enable : true
 #    label : "Contact Us"
@@ -53,7 +53,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "Project 1"
+    - title : "Warped Spatial/Spatio-Temporal Models"
       images:
       - "images/4_3_Sydney_training_data_mixed.png"
       - "images/4_3_Sydney_SA1_predictions_mixed.png"
@@ -66,7 +66,7 @@ service:
 
 
     # service item loop
-    - title : "Project 2"
+    - title : "Convolution Neural Network Spatio-Temporal Models "
       images:
       - "images/4_3_Sydney_training_data_mixed.png"
       - "images/4_3_Sydney_SA1_predictions_mixed.png"
@@ -76,6 +76,54 @@ service:
         enable : true
         label : "Read more"
         link : "projects/project2"
+
+
+    - title : "Normalising Flows for Point Process Intensity Function Estimation"
+      images:
+      - "images/4_3_Sydney_training_data_mixed.png"
+      - "images/4_3_Sydney_SA1_predictions_mixed.png"
+      - "images/4_3_Sydney_SA3_predictions_probability_mixed.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Read more"
+        link : "projects/project2"
+
+
+    - title : "Convolution Variational Autoencoder Emulation"
+      images:
+      - "images/4_3_Sydney_training_data_mixed.png"
+      - "images/4_3_Sydney_SA1_predictions_mixed.png"
+      - "images/4_3_Sydney_SA3_predictions_probability_mixed.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Read more"
+        link : "projects/project2"
+
+
+    - title : "Multi-Resolution Spatial Modelling"
+      images:
+      - "images/4_3_Sydney_training_data_mixed.png"
+      - "images/4_3_Sydney_SA1_predictions_mixed.png"
+      - "images/4_3_Sydney_SA3_predictions_probability_mixed.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Read more"
+        link : "projects/project3"
+
+    - title : "Deep Learning for Spatial Parameter Estimation"
+      images:
+      - "images/4_3_Sydney_training_data_mixed.png"
+      - "images/4_3_Sydney_SA1_predictions_mixed.png"
+      - "images/4_3_Sydney_SA3_predictions_probability_mixed.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Read more"
+        link : "projects/project4"
+
 
 
 ################### Screenshot ########################
