@@ -2,8 +2,8 @@
 ####################### Banner #########################
 banner:
   title : "Deep Learning for Spatial and <br> Spatio-Temporal Statistics"
-  image : "images/4_4_Chicago_data_pred_uncertainty.png"
-  content : "Brief description of the project. Link to the project overview page. Brief description of Andrew. Brief description of the people Andrew has collaborated with on this project and link to Collaborators page. Link to contact page. "
+  image : "images/statsgpu.png"
+  content : "Webpage on work done at the University of Wollongong, Australia, since 2018 on the application of deep learning models to spatial and spatio-temporal statistical models"
 #  button:
 #    enable : true
 #    label : "Contact Us"
