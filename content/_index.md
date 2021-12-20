@@ -55,10 +55,9 @@ service:
     # service item loop
     - title : "Warped Spatial/Spatio-Temporal Models"
       images:
-      - "images/4_3_Sydney_training_data_mixed.png"
-      - "images/4_3_Sydney_SA1_predictions_mixed.png"
-      - "images/4_3_Sydney_SA3_predictions_probability_mixed.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      - "images/multivariatewarping.png"
+      - "images/AWURBF2D.png"
+      content : "Nonstationarity in spatial/spatio-temporal processes can be characterised by warping space and time. Here, we describe warping approaches that allow for straightforward fitting and prediction with univariate, multivariate, and big spatio-temporal data."
       button:
         enable : true
         label : "Read more"
@@ -144,6 +143,8 @@ service:
 #    enable : true
 #    label : "The Project"
 #    link : "project"
-
-
 ---
+
+## Project 1
+My name is Andrew
+
