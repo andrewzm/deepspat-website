@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Deep Learning for Spatial and <br> Spatio-Temporal Statistics"
-  image : "images/statsgpu.png"
+#  image : "images/statsgpu.png"
   content : "Webpage on work done at the University of Wollongong, Australia, since 2018, on the application of deep learning models to spatial and spatio-temporal statistical models. This work was in large part funded by the Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203 awarded to Andrew Zammit-Mangion."
 #  button:
 #    enable : true
@@ -55,7 +55,6 @@ service:
     # service item loop
     - title : "Warped Spatial/Spatio-Temporal Models"
       images:
-      - "images/multivariatewarping.png"
       - "images/AWURBF2D.png"
       content : "Nonstationarity in spatial/spatio-temporal processes can be characterised by warping space and time. Here, we describe warping approaches that allow for straightforward fitting and prediction with univariate, multivariate, and big spatio-temporal data."
       button:
