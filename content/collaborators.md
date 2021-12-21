@@ -6,7 +6,18 @@ draft: false
 
 ## Collaborators
 
-Maurizio Filippone
+
+{{< people
+  src="static/images/maurizio.jpeg"
+  firstname="Maurizio"
+  surname="Filippone"
+  description="AXA Chair of Computational Statistics and Associate Professor at [EURECOM](http://www.eurecom.fr/en)"
+  link="https://www.eurecom.fr/~filippon/"
+  >}}
+
+
+<img align="left" width="100" height="100" src="static/images/maurizio.jpeg">
+
 
 James Ng
 

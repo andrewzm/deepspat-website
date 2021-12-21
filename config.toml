@@ -14,7 +14,7 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
 [Menus]
   main = [
       {Name = "Home", url = "", identifier = "home", weight = 1},
-      {Name = "Project Overview", url = "project/", identifier = "project", weight = 2},
+#      {Name = "Project Overview", url = "project/", identifier = "project", weight = 2},
       {Name = "Collaborators and Students", url = "collaborators/", identifier = "collaborators", weight = 3},
       {Name = "Outputs", url = "outputs/", identifier = "outputs", weight = 4},
       {Name = "Contact", url = "contact/", identifier = "contact", weight = 5},
