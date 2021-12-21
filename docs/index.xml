@@ -12,24 +12,6 @@
     
     
     <item>
-      <title>Project 2</title>
-      <link>http://andrewzm.github.io/deepspat-website/projects/project2/</link>
-      <pubDate>Thu, 02 Dec 2021 17:55:40 +1100</pubDate>
-      
-      <guid>http://andrewzm.github.io/deepspat-website/projects/project2/</guid>
-      <description>Info on project 2.</description>
-    </item>
-    
-    <item>
-      <title>Project 1</title>
-      <link>http://andrewzm.github.io/deepspat-website/projects/project1/</link>
-      <pubDate>Thu, 02 Dec 2021 17:55:31 +1100</pubDate>
-      
-      <guid>http://andrewzm.github.io/deepspat-website/projects/project1/</guid>
-      <description>Info on project 1.</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>http://andrewzm.github.io/deepspat-website/contact/</link>
       <pubDate>Thu, 02 Dec 2021 14:02:30 +1100</pubDate>
@@ -40,12 +22,14 @@
     </item>
     
     <item>
-      <title>Outputs</title>
+      <title>Publications</title>
       <link>http://andrewzm.github.io/deepspat-website/outputs/</link>
       <pubDate>Thu, 02 Dec 2021 14:02:25 +1100</pubDate>
       
       <guid>http://andrewzm.github.io/deepspat-website/outputs/</guid>
-      <description>List of outputs that were funded by DECRA.</description>
+      <description>The following is a list of publications on work was partially or fully supported by Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203.
+ 2021   A. Zammit-Mangion, M. Bertolacci, J. Fisher, A. Stavert, M. Rigby, Y. Cao and N. Cressie (2021), “WOMBAT: A fully Bayesian global flux-inversion framework,” in press with Geophysical Model Development.
+  S. Chuter, A. Zammit-Mangion, J. Rougier, G. Dawson, and J.</description>
     </item>
     
     <item>
@@ -64,7 +48,7 @@ Nicholas Deutscher
 Maurizio Filippone
  AXA Chair of Computational Statistics and Associate Professor at EURECOM, France
     
-Rapha&amp;amp;‌euml;l Huser
+Raphael Huser
  Assistant Professor at the King Abdullah University of Science and Technology, Saudi Arabia</description>
     </item>
     
