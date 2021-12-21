@@ -63,12 +63,11 @@ draft: false
 
 {{< people
   src="images/raphael.png"
-  firstname="Raphael"
+  firstname="Raphaël"
   surname="Huser"
   description="Assistant Professor at the King Abdullah University of Science and Technology, Saudi Arabia"
   link="https://www.kaust.edu.sa/en/study/faculty/raphael-huser"
   >}}
-
 
   &nbsp;
 
@@ -152,7 +151,7 @@ draft: false
 ## Students
 
   &nbsp;
-  
+
 {{< people
   src="images/laura.jpeg"
   firstname="Laura"

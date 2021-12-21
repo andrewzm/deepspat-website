@@ -1,4 +1,4 @@
-# baseURL = "http://andrewzm.github.io"
+#baseURL = "http://andrewzm.github.io"
 baseURL = "http://andrewzm.github.io/deepspat-website" # local environment has trouble because of the subdomain; change it back for local development.
 languageCode = "en-us"
 title = "Deep Learning for Spatial and Spatio-Temporal Statistics"
