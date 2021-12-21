@@ -53,14 +53,6 @@
     <div class="row align-items-center justify-content-center text-center text-md-left">
       <div class="col-lg-14 mx-auto text-center">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
-      {{with .image}}<img src="{{ . | relURL }}" align="left" alt="" class="img-fluid mt-5" width="270px" img style="float: left; padding-right: 50px;">{{end}}
-        {{with .content }}<p class="mb-4"><div style="text-align: left">{{ . | markdownify }} </div></p>{{ end }}
-        {{ if .button.enable }}
-        {{ with .button }}
-        <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn btn-primary">{{ .label }}</a>
-        {{ end }}
-        {{ end }}
-
     </div>
   </div>
 {{ end }}

@@ -5,10 +5,6 @@
     <link>http://andrewzm.github.io/deepspat-website/tags/</link>
     <description>Recent content in Tags on Deep Learning for Spatial and Spatio-Temporal Statistics</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://andrewzm.github.io/deepspat-website/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://andrewzm.github.io/deepspat-website/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

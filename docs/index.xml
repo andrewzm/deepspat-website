@@ -6,11 +6,7 @@
     <description>Recent content on Deep Learning for Spatial and Spatio-Temporal Statistics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Dec 2021 14:02:30 +1100</lastBuildDate>
-    
-	<atom:link href="http://andrewzm.github.io/deepspat-website/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 02 Dec 2021 17:55:40 +1100</lastBuildDate><atom:link href="http://andrewzm.github.io/deepspat-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2</title>
       <link>http://andrewzm.github.io/deepspat-website/projects/project2/</link>
@@ -54,20 +50,20 @@
       <pubDate>Thu, 02 Dec 2021 14:02:14 +1100</pubDate>
       
       <guid>http://andrewzm.github.io/deepspat-website/collaborators/</guid>
-      <description>Collaborators Maurizio Filippone
+      <description>Collaborators  Maurizio Filippone
 Maurizio AXA Chair of Computational Statistics and Associate Professor at [EURECOM](http://www.eurecom.fr/en)
 You can discover more about Maurizio here.
-James Ng
+ James Ng
 Matt Moores
 Chris Wikle
 Noel Cressie
 Nicholas Deutscher
 Dr. Raphael Huser
 Students Laura Cartwright
-Quan Vu
+ Quan Vu
 Quan is a final-year PhD student at the University of Wollongong, supervised by Dr. Andrew Zammit-Mangion and Prof. Noel Cressie.
 You can discover more about Quan here.
-  Matthew Sainsbury-Dale</description>
+    Matthew Sainsbury-Dale</description>
     </item>
     
     <item>
@@ -77,13 +73,13 @@ You can discover more about Quan here.
       
       <guid>http://andrewzm.github.io/deepspat-website/project/</guid>
       <description>Overview of the project.
-   &amp;nbsp;
+    &amp;nbsp;
 Project 1
 Description of Project 1.
-Read more      &amp;nbsp;
+Read more         &amp;nbsp;
 Project 1
 Description of Project 1. Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.
-Read more </description>
+Read more   </description>
     </item>
     
   </channel>
