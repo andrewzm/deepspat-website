@@ -1,4 +1,4 @@
-<!-- 
+<!--
 
 PROJECT: Bigspring Hugo
 VERSION: 2.0.0
@@ -33,6 +33,7 @@ AUTHOR WEBSITE: https://gethugothemes.com
 		{{ block "main" . }}{{ end }}
 	</main>
 
+	{{ if .Params.include_footer }}
 	{{ if hugo.IsProduction }}
 	{{ partialCached "footer.html" . }}
 	{{ partialCached "script.html" . }}
@@ -40,6 +41,8 @@ AUTHOR WEBSITE: https://gethugothemes.com
 	{{ partial "footer.html" . }}
 	{{ partial "script.html" . }}
 	{{ end }}
+	{{ end }}
+
 </body>
 
 </html>

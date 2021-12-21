@@ -1,4 +1,6 @@
 ---
+include_footer: true
+
 ####################### Banner #########################
 banner:
   title : "Deep Learning for Spatial and <br> Spatio-Temporal Statistics"
