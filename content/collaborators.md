@@ -7,12 +7,48 @@ draft: false
 ## Collaborators
 
   &nbsp;
-  
+
+{{< people
+  src="images/cressie.jpg"
+  firstname="Noel"
+  surname="Cressie"
+  description="Distinguished Professor at the University of Wollongong, Australia"
+  link="https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/people/dr-noel-cressie/"
+  >}}
+
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+
+{{< people
+  src="images/nick.jpg"
+  firstname="Nicholas"
+  surname="Deutscher"
+  description="Senior Research Fellow at the University of Wollongong, Australia"
+  link="https://scholars.uow.edu.au/display/nicholas_deutscher"
+  >}}
+
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+
 {{< people
   src="images/maurizio.jpeg"
   firstname="Maurizio"
   surname="Filippone"
-  description="AXA Chair of Computational Statistics and Associate Professor at EURECOM"
+  description="AXA Chair of Computational Statistics and Associate Professor at EURECOM, France"
   link="https://www.eurecom.fr/~filippon/"
   >}}
 
@@ -22,32 +58,124 @@ draft: false
   &nbsp;
 
   &nbsp;
-  
-James Ng
 
-Matt Moores
+  &nbsp;
 
-Chris Wikle
+{{< people
+  src="images/raphael.png"
+  firstname="Raphael"
+  surname="Huser"
+  description="Assistant Professor at the King Abdullah University of Science and Technology, Saudi Arabia"
+  link="https://www.kaust.edu.sa/en/study/faculty/raphael-huser"
+  >}}
 
-Noel Cressie
 
-Nicholas Deutscher
+  &nbsp;
 
-Dr. Raphael Huser
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+
+
+{{< people
+  src="images/mmoores.jpg"
+  firstname="Matt"
+  surname="Moores"
+  description="Lecturer at the University of Wollongong, Australia"
+  link="https://mattstats.wordpress.com/about/"
+  >}}
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+
+{{< people
+  src="images/james.jpeg"
+  firstname="James"
+  surname="Ng"
+  description="Lecturer at Trinity College Dublin, Ireland"
+  link="https://scholar.google.com/citations?user=a2ahoJIAAAAJ&hl=en"
+  >}}
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+{{< people
+  src="images/rougier.jpeg"
+  firstname="Jonathan (Jonty)"
+  surname="Rougier"
+  description="Indpendent statistician"
+  link="https://www.rougierconsulting.com/"
+  >}}
+
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+
+{{< people
+  src="images/wikle.jpg"
+  firstname="Christopher K."
+  surname="Wikle"
+  description="Curators Distinguished Professor at the University of Missouri, CO"
+  link="https://stat.missouri.edu/people/wikle"
+  >}}
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
+
 
 
 ## Students
 
   &nbsp;
   
-Laura Cartwright
+{{< people
+  src="images/laura.jpeg"
+  firstname="Laura"
+  surname="Cartwright"
+  description="PhD student at the University of Wollongong, supervised by A/Prof. Andrew Zammit-Mangion and Dr Nicholas Deutscher"
+  link="https://scholar.google.com/citations?user=CMee9DIAAAAJ&hl=en"
+  >}}
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 {{< people
   src="images/qv.png"
   firstname="Quan"
   surname="Vu"
-  description="is a final-year PhD student at the University of Wollongong, supervised by Dr. Andrew Zammit-Mangion and Prof. Noel Cressie."
-  link="https://scholar.google.com/citations?user=KFw2cacAAAAJ&hl=en"
+  description="PhD student at the University of Wollongong, supervised by A/Prof. Andrew Zammit-Mangion, Dr Matt Moores, and Dist. Prof. Noel Cressie"
+  link="https://quanvu17.wordpress.com/"
   >}}
 
 
@@ -55,11 +183,14 @@ Laura Cartwright
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
 
 {{< people
   src="images/msd.jpg"
   firstname="Matthew"
   surname="Sainsbury-Dale"
-  description="is a second-year PhD student at the University of Wollongong, supervised by Dr. Andrew Zammit-Mangion and Prof. Noel Cressie. In this project, he worked on a framework for parameter estimation using deep neural networks, alongside Dr. Zammit-Mangion and Dr. Huser."
+  description="PhD student at the University of Wollongong, supervised by A/Prof. Andrew Zammit-Mangion and Dist. Prof. Noel Cressie"
   link="https://github.com/msainsburydale"
   >}}

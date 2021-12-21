@@ -16,7 +16,7 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
       {Name = "Home", url = "", identifier = "home", weight = 1},
 #      {Name = "Project Overview", url = "project/", identifier = "project", weight = 2},
       {Name = "Collaborators and Students", url = "collaborators/", identifier = "collaborators", weight = 3},
-      {Name = "Outputs", url = "outputs/", identifier = "outputs", weight = 4},
+      {Name = "Publications", url = "outputs/", identifier = "outputs", weight = 4},
       {Name = "Contact", url = "contact/", identifier = "contact", weight = 5},
       #{Name = "Github", URL = "https://github.com/andrewzm/"},
       #{Name = "Email", URL = "mailto:azm@uow.edu.au"}
@@ -28,3 +28,8 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
   author = "Andrew Zammit-Mangion"
   logo = "images/NIASRA-UOW.png"
   logo_width = "400px"
+  footer_content = ""
+  Copyright = "Copyright © 2022 Andrew Zammit-Mangion. This site was built with [Hugo](https://gohugo.io/) with the help of Matthew Sainsbury-Dale."
+  social = [
+    {title = "Twitter", icon = "images/twitter.png", link = "https://twitter.com/andrewzm"}
+  ]
