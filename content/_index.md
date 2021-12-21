@@ -182,6 +182,3 @@ service:
 #    label : "The Project"
 #    link : "project"
 ---
-
-## Project 1
-My name is Andrew
