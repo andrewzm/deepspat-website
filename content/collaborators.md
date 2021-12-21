@@ -2,6 +2,7 @@
 title: "Collaborators and Students"
 date: 2021-12-02T14:02:14+11:00
 draft: false
+footer: false
 ---
 
 ## Collaborators

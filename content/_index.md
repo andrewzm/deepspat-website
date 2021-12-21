@@ -142,7 +142,7 @@ service:
     - title : "Multi-Resolution Spatial Modelling"
       images:
       - "images/Ypred01err_Global.png"
-      content : "Fitting spatial models to big, remote, sensing data is often challenging even if the model one is fitting is relatively simple. However, in order to take advantage of the information in big data sets, one also needs to use more complex models. Here, together with [Jonathan Rougier](https://www.rougierconsulting.com/), we construct a model using multiple spatial scales, where the degree of spatial nonstationarity is allowed to increase with decrease process scale."
+      content : "Fitting spatial models to big, remote, sensing data is often challenging even if the model one is fitting is relatively simple. However, in order to take advantage of the information in big data sets, one also needs to use more complex models. Here, together with [Jonathan Rougier](https://www.rougierconsulting.com/), we construct a model using multiple spatial scales, where the degree of spatial nonstationarity is allowed to increase with decreasing process scale."
       button:
         enable : true
         label : "Read more"
@@ -183,4 +183,3 @@ service:
 
 ## Project 1
 My name is Andrew
-

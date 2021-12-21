@@ -14,12 +14,16 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
 [Menus]
   main = [
       {Name = "Home", url = "", identifier = "home", weight = 1},
-#      {Name = "Project Overview", url = "project/", identifier = "project", weight = 2},
       {Name = "Collaborators and Students", url = "collaborators/", identifier = "collaborators", weight = 3},
       {Name = "Publications", url = "outputs/", identifier = "outputs", weight = 4},
       {Name = "Contact", url = "contact/", identifier = "contact", weight = 5},
       #{Name = "Github", URL = "https://github.com/andrewzm/"},
       #{Name = "Email", URL = "mailto:azm@uow.edu.au"}
+  ]
+  footer_left = [
+    {name = "R Deepspat package", url = "https://github.com/andrewzm/deepspat", weight = 1},
+    {name = "Centre for Environmental Informatics, University of Wollongong", url = "https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/", weight = 2},
+    {name = "Australian Research Council", url = "https://www.arc.gov.au/", weight = 3},
   ]
 
 
@@ -28,8 +32,11 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
   author = "Andrew Zammit-Mangion"
   logo = "images/NIASRA-UOW.png"
   logo_width = "400px"
-  footer_content = ""
+  ########### footer content ##########
   Copyright = "Copyright © 2022 Andrew Zammit-Mangion. This site was built with [Hugo](https://gohugo.io/) with the help of Matthew Sainsbury-Dale."
   social = [
-    {title = "Twitter", icon = "images/twitter.png", link = "https://twitter.com/andrewzm"}
+    {title = "twitter", icon = "fab fa-twitter", link = "https://twitter.com/andrewzm"},
+    {title = "linkedin", icon = "fab fa-linkedin", link = "https://au.linkedin.com/in/andrewzammitmangion"},
   ]
+  footer_menu_left = "Related links"
+  footer_content = ""
