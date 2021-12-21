@@ -6,12 +6,13 @@ draft: false
 
 ## Collaborators
 
-
+  &nbsp;
+  
 {{< people
   src="images/maurizio.jpeg"
   firstname="Maurizio"
   surname="Filippone"
-  description="AXA Chair of Computational Statistics and Associate Professor at [EURECOM](http://www.eurecom.fr/en)"
+  description="AXA Chair of Computational Statistics and Associate Professor at EURECOM"
   link="https://www.eurecom.fr/~filippon/"
   >}}
 
@@ -20,7 +21,8 @@ draft: false
 
   &nbsp;
 
-
+  &nbsp;
+  
 James Ng
 
 Matt Moores
@@ -36,6 +38,8 @@ Dr. Raphael Huser
 
 ## Students
 
+  &nbsp;
+  
 Laura Cartwright
 
 {{< people
