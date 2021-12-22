@@ -92,8 +92,8 @@
 {{if modBool $i 2}}
 <section class="section">
   <div class="container">
-    <div class="row align-items-centre">
-      <div class="col-md-6 order-first">
+    <div class="row align-items-center">
+      <div class="col-md-6 col-md-6 order-sm-first order-lg-last"> <!-- mobile 1st and then desktop 1st -->
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
@@ -102,7 +102,7 @@
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-md-6 order-last">
+      <div class="col-md-6 col-md-6 order-lg-last"> <!-- mobile 2nd and then desktop 2nd -->
         <div {{if gt (len .images) 1}} class="slider" {{end}}>
           {{ range .images }}
           <img src="{{ . | relURL }}" alt="" class="img-fluid">
@@ -116,14 +116,14 @@
 <section class="section bg-light">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6 mb-4 mb-md-0">
+      <div class="col-md-6 col-md-6 order-sm-last order-lg-first"> <!-- mobile 2nd and then desktop 1st -->
         <div {{if gt (len .images) 1}}class="slider" {{end}}>
           {{ range .images }}
           <img src="{{ . | relURL }}" alt="" class="img-fluid">
           {{ end }}
         </div>
       </div>
-      <div class="col-md-6">
+      <div class="col-md-6 col-md-6 order-sm-first order-lg-last"> <!-- mobile 1st and then desktop 2nd -->
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
