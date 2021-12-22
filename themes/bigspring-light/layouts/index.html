@@ -93,16 +93,17 @@
 <section class="section">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6 order-md-first">
+      <div class="col-md-6">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="fas fa-arrow-right"></i></a>
+        <p> </p>
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-md-6 corder-md-last">
+      <div class="col-md-6">
         <div {{if gt (len .images) 1}} class="slider" {{end}}>
           {{ range .images }}
           <img src="{{ . | relURL }}" alt="" class="img-fluid">
@@ -116,16 +117,17 @@
 <section class="section bg-light">
   <div class="container">
     <div class="row align-items-center">
-      <div class="col-md-6 order-last">
+      <div class="col-md-6">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="fas fa-arrow-right"></i></a>
+        <p> </p>
         {{ end }}
         {{ end }}
       </div>
-      <div class="col-md-6 order-first">
+      <div class="col-md-6">
         <div {{if gt (len .images) 1}}class="slider" {{end}}>
           {{ range .images }}
           <img src="{{ . | relURL }}" alt="" class="img-fluid">
