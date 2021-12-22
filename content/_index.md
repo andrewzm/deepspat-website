@@ -100,10 +100,10 @@ service:
         label : "Read more"
         link : "http://doi.org/10.5705/ss.202020.0156"
 
-    - title : "Convolution Neural Network Spatio-Temporal Models "
+    - title : "Convolutional Neural Network Spatio-Temporal Models "
       images:
       - "images/BallResults2.png"
-      content : "Dynamic spatio-temporal models are often used to model highly dynamic geophysical or ecological processes, such as daily sea-surface temperature or the spread of an invading species. Often, the dynamics themselves (e.g., the direction of flow) changes rapidly in both space and time. In this project, together with [Chris Wikle](), we integrate a convolution neural network with a statistical spatio-temporal model to jointly predict the spatio-temporal varying dynamical parameters and the process of interest."
+      content : "Dynamic spatio-temporal models are often used to model highly dynamic geophysical or ecological processes, such as daily sea-surface temperature or the spread of an invading species. Often, the dynamics themselves (e.g., the direction of flow) changes rapidly in both space and time. In this project, together with [Chris Wikle](https://stat.missouri.edu/people/wikle), we integrate a convolutional neural network with a statistical spatio-temporal model to jointly predict the spatio-temporal varying dynamical parameters and the process of interest."
       button:
         enable : true
         label : "Read more"
@@ -126,18 +126,18 @@ service:
       content : "Geophysical event data (e.g., earthquake occurrence) are often presented to the analyst as a set of spherical coordinates. Here, in this project led by [James Ng](https://scholar.google.com/citations?user=a2ahoJIAAAAJ&hl=en), we use radial flows within a measure transport framework to constuct a flexible model for the intensity function of a non-homogeneous point process on the sphere."
       button:
         enable : true
-        label : "Read more"
-        link : "https://arxiv.org/abs/2007.00248"
+        label : "Coming soon"
+        link : ""
 
 
 
-    - title : "Spatio-Temporal Emulation using Convolution Variational Autoencoders"
+    - title : "Spatio-Temporal Emulation using Convolutional Variational Autoencoders"
       images:
       - "images/CVAE.png"
       content : "Some computationally-intensive numerical models, such as Lagrangian Particle Dispersion Models (LPDMs), take a spatio-temporal location as an input (e.g., a source location) and generate a spatio-temporal output (e.g., the spatio-temporal evolution of a gas). In this project, led by [Laura Cartwright](https://scholar.google.com/citations?user=CMee9DIAAAAJ&hl=en), and together with [Nicholas Deutscher](https://scholars.uow.edu.au/display/nicholas_deutscher), we take advantage of spatial and temporal correlations of the numerical-model output to emulate outputs at other, new, input locations. Emulation is done on a small-dimensional space constructed via a convolutional variational autoencoder. "
       button:
         enable : true
-        label : "Read more"
+        label : "Coming soon"
         link : ""
 
 
