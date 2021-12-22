@@ -117,7 +117,7 @@ include_footer: true
   src="images/rougier.jpeg"
   firstname="Jonathan (Jonty)"
   surname="Rougier"
-  description="Indpendent statistician"
+  description="Independent Statistician"
   link="https://www.rougierconsulting.com/"
   >}}
 

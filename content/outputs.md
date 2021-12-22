@@ -11,7 +11,7 @@ The following is a list of publications on work was partially or fully supported
 
 ### 2021
 
-- A. Zammit-Mangion, M. Bertolacci, J. Fisher, A. Stavert, M. Rigby, Y. Cao and N. Cressie (2021), “[**WOMBAT: A fully Bayesian global flux-inversion framework**](https://gmd.copernicus.org/preprints/gmd-2021-181/),” in press with *Geophysical Model Development*.
+- A. Zammit-Mangion<sup>\*</sup>, M. Bertolacci<sup>\*</sup>, J. Fisher, A. Stavert, M. Rigby, Y. Cao and N. Cressie (2021), “[**WOMBAT: A fully Bayesian global flux-inversion framework**](https://gmd.copernicus.org/preprints/gmd-2021-181/),” in press with *Geophysical Model Development*. <sup>\*</sup>Contributed equally.
 
 - S. Chuter, A. Zammit-Mangion, J. Rougier, G. Dawson, and J.L. Bamber (2021), “[**Mass evolution of the Antarctic Peninsula over the last two decades from a joint Bayesian inversion**](https://tc.copernicus.org/preprints/tc-2021-178/),” in press with *The Cryosphere*.
 
@@ -49,4 +49,4 @@ The following is a list of publications on work was partially or fully supported
 
 - M.J. Heaton, A. Datta, A. Finley, R. Furrer, J. Guinness, R. Guhaniyogi, F. Gerber, R.B. Gramacy, D. Hammerling, M. Katzfuss, F. Lindgren, D.W. Nychka, F. Sun and A. Zammit-Mangion (2019) “[**A case study competition among methods for analyzing large spatial data**](https://link.springer.com/article/10.1007/s13253-018-00348-w),” *Journal of Agricultural, Biological, and Environmental Statistics*, 24, pp. 398-425.
 
-- L. Cartwright, A. Zammit-Mangion, S. Bhatia, I. Schroder, F. Phillips, T. Coates, K. Negandhi, T. Naylor, M. Kennedy, S. Zegelin, N. Wokker, N. M. Deutscher and A. Feitz (2019) “[**Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment88**](https://amt.copernicus.org/articles/12/4659/2019/),” *Atmospheric Measurement Techniques*, 12, pp. 4659–4676.
+- L. Cartwright, A. Zammit-Mangion, S. Bhatia, I. Schroder, F. Phillips, T. Coates, K. Negandhi, T. Naylor, M. Kennedy, S. Zegelin, N. Wokker, N. M. Deutscher and A. Feitz (2019) “[**Bayesian atmospheric tomography for detection and quantification of methane emissions: Application to data from the 2015 Ginninderra release experiment**](https://amt.copernicus.org/articles/12/4659/2019/),” *Atmospheric Measurement Techniques*, 12, pp. 4659–4676.

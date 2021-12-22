@@ -17,15 +17,15 @@ under_banner_text:
   enable : true
   title : "About Me"
   image : "images/Andrew.png"
-  content : "My name is Andrew Zammit-Mangion and I am an Associate Professor in Statistics with the National Institute for Applied Statistics Research Australia (NIASRA) at the University of Wollongong. I completed my PhD in 2012 at the University of Sheffield, UK in the Department of Automatic Control and Systems Engineering before carrying out brief post-docs at the University of Edinburgh with the School of Informatics and the University of Bristol with the Department of Maths and the School of Geographical Sciences. I joined NIASRA in 2014 and have been here ever since!
+  content : "My name is Andrew Zammit-Mangion and I am an Associate Professor in Statistics with the National Institute for Applied Statistics Research Australia (NIASRA) at the University of Wollongong. I completed my PhD in 2012 at the University of Sheffield, UK in the Department of Automatic Control and Systems Engineering before carrying out brief post-docs at the University of Edinburgh with the School of Informatics and the University of Bristol with the Department of Maths and the School of Geographical Sciences. I joined NIASRA in 2014.
 
 \
 
-This page highlights some of the key projects I have participated in with some great students and collaborators as part of the Discovery Early Career Research Award (DECRA) that I was awarded in 2017, titled ``Deep space-time models for modelling complex environmental phenomena'' (see Collaborators and Students). The DECRA was invaluable in giving me the time to explore some ideas that I had for several years since my time in the UK, and to connect with several international researchers. Please take a browse of the below projects; the synopsis for each project is left to be deliberately short, and clicking on `Read more' will direct you to a published work with more details.
+This page highlights some of the key projects I have participated in with some great students and collaborators as part of the Discovery Early Career Research Award (DECRA) that I was awarded in 2017, titled 'Deep space-time models for modelling complex environmental phenomena' (see [Collaborators and Students](https://andrewzm.github.io/deepspat-website/collaborators/)). The DECRA was invaluable in giving me the time to explore some ideas that I had for several years since my time in the UK, and to connect with several international researchers. Please take a browse through the below key projects; the synopsis for each project is deliberately short, and clicking on 'Read more' will direct you to a published work with more details.
 
 \
 
-If you’d like to follow me on Twitter, my handle is @andrewzm."
+If you would like to follow me on Twitter, my handle is [@andrewzm](https://twitter.com/andrewzm)."
 
 
   button:
@@ -84,7 +84,7 @@ service:
     - title : "Deep Compositional Spatial Models"
       images:
       - "images/AWURBF2D.png"
-      content : "Nonstationarity in spatial processes can be constructed by warping space and subsequently defining a stationary process on the warped domain. In this project, together with [James Ng](https://scholar.google.com/citations?user=a2ahoJIAAAAJ&hl=en), [Quan Vu](https://quanvu17.wordpress.com/), and [Maurizio Filippone](https://www.eurecom.fr/~filippon/),  we describe a warping approach that allows for straightforward fitting and prediction with univariate spatial data. The model, uses low-dimensional injective warping functions which can either be estimated using maximum likelihood or inferred using stochastic variational Bayes. "
+      content : "Nonstationarity in spatial processes can be constructed by warping space and subsequently defining a stationary process on the warped domain. In this project, together with [James Ng](https://scholar.google.com/citations?user=a2ahoJIAAAAJ&hl=en), [Quan Vu](https://quanvu17.wordpress.com/), and [Maurizio Filippone](https://www.eurecom.fr/~filippon/),  we describe a warping approach that allows for straightforward fitting and prediction with univariate spatial data. The model is constructed from low-dimensional injective warping functions which can either be estimated using maximum likelihood or inferred using stochastic variational Bayes. "
       button:
         enable : true
         label : "Read more"
@@ -94,7 +94,7 @@ service:
     - title : "Multivariate Deep Compositional Spatial Models"
       images:
       - "images/multivariatewarping2.png"
-      content : "In this project, led by [Quan Vu](https://quanvu17.wordpress.com/) and together with [Noel Cressie](https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/people/people/#d.en.138780), we extended the deep compositional spatial models outlined in the previous project to the multivariate case. Here, we model the joint processes using stationary, symmetric, covariance functions on the warped domain. There are many interesting properties that arise when modelling nonstationarity and asymmetry in this way; see main text for more details."
+      content : "In this project led by [Quan Vu](https://quanvu17.wordpress.com/), and together with [Noel Cressie](https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/people/people/#d.en.138780), we extend the deep compositional spatial models outlined in the previous project to the multivariate case. Here, we model the joint processes using stationary, symmetric, covariance functions on the warped domain. There are many interesting properties that emerge when modelling nonstationarity and asymmetry of multivariate spatial processes in this way."
       button:
         enable : true
         label : "Read more"
@@ -134,7 +134,7 @@ service:
     - title : "Spatio-Temporal Emulation using Convolution Variational Autoencoders"
       images:
       - "images/CVAE.png"
-      content : "Some computationally-intensive numerical models, such as Lagrangian Particle Dispersion Models (LPDMs), take a spatio-temporal location as an input (e.g., a source location) and generate a spatio-temporal output (e.g., the spatio-temporal evolution of a gas). In this project, led by [Laura Cartwright](https://scholar.google.com/citations?user=CMee9DIAAAAJ&hl=en), we take advantage of spatial and temporal correlations of the numerical-model output to emulate outputs at other, new, input locations. Emulation is done on a small-dimensional space constructed via a convolutional variational autoencoder. "
+      content : "Some computationally-intensive numerical models, such as Lagrangian Particle Dispersion Models (LPDMs), take a spatio-temporal location as an input (e.g., a source location) and generate a spatio-temporal output (e.g., the spatio-temporal evolution of a gas). In this project, led by [Laura Cartwright](https://scholar.google.com/citations?user=CMee9DIAAAAJ&hl=en), and together with [Nicholas Deutscher](https://scholars.uow.edu.au/display/nicholas_deutscher), we take advantage of spatial and temporal correlations of the numerical-model output to emulate outputs at other, new, input locations. Emulation is done on a small-dimensional space constructed via a convolutional variational autoencoder. "
       button:
         enable : true
         label : "Read more"
@@ -144,7 +144,7 @@ service:
     - title : "Multi-Resolution Spatial Modelling"
       images:
       - "images/Ypred01err_Global.png"
-      content : "Fitting spatial models to big, remote, sensing data is often challenging even if the model one is fitting is relatively simple. However, in order to take advantage of the information in big data sets, one also needs to use more complex models. Here, together with [Jonathan Rougier](https://www.rougierconsulting.com/), we construct a model using multiple spatial scales, where the degree of spatial nonstationarity is allowed to increase with decreasing process scale."
+      content : "Fitting spatial models to big remote sensing data is often challenging even if the model one is fitting is relatively simple. However, in order to take advantage of the information in big data sets, one also needs to use more complex models. Here, together with [Jonathan Rougier](https://www.rougierconsulting.com/), we construct a spatial model that takes into account multiple spatial scales, and where the degree of spatial nonstationarity is allowed to increase with decreasing process scale."
       button:
         enable : true
         label : "Read more"
