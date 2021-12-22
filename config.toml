@@ -33,11 +33,12 @@ disablePathToLower = true # Do not convert the url/path to lowercase.
   author = "Andrew Zammit-Mangion"
   logo = "images/NIASRA-UOW.png"
   logo_width = "400px"
+  link = "https://www.uow.edu.au/niasra/"
   ########### footer content ##########
-  Copyright = "Copyright © 2022 Andrew Zammit-Mangion. This site was built with [Hugo](https://gohugo.io/) with the help of Matthew Sainsbury-Dale."
+  Copyright = "Copyright © 2022 [**Andrew Zammit-Mangion**](https://andrewzm.wordpress.com). This site was built with [**Hugo**](https://gohugo.io/) with the help of [**Matthew Sainsbury-Dale**](https://github.com/msainsburydale)."
   social = [
     {title = "twitter", icon = "fab fa-twitter", link = "https://twitter.com/andrewzm"},
     {title = "linkedin", icon = "fab fa-linkedin", link = "https://au.linkedin.com/in/andrewzammitmangion"},
   ]
   footer_menu_left = "Related links"
-  footer_content = ""
+#  footer_content = "#### Social Media"

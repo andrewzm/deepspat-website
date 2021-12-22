@@ -5,7 +5,7 @@ include_footer: true
 banner:
   title : "Deep Learning for Spatial and <br> Spatio-Temporal Statistics"
 #  image : "images/statsgpu.png"
-  content : "Webpage on work done at the University of Wollongong, Australia, since 2018, on the application of deep learning models to spatial and spatio-temporal statistical models. This work was in large part funded by the Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203 awarded to Andrew Zammit-Mangion."
+  content : "This page outlines work done at the [Centre for Environmental Informatics](https://www.uow.edu.au/niasra/our-research/centre-for-environmental-informatics/research/) within [NIASRA](https://www.uow.edu.au/niasra/) at the University of Wollongong, Australia, since 2018, on the application of deep learning models to spatial and spatio-temporal statistical models. This work was in large part funded by the [Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE180100203) awarded to [Andrew Zammit-Mangion](https://andrewzm.wordpress.com)."
 #  button:
 #    enable : true
 #    label : "Contact Us"

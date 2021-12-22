@@ -5,7 +5,12 @@
     <link>http://andrewzm.github.io/deepspat-website/</link>
     <description>Recent content on Deep Learning for Spatial and Spatio-Temporal Statistics</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://andrewzm.github.io/deepspat-website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 14:02:30 +1100</lastBuildDate>
+    
+	<atom:link href="http://andrewzm.github.io/deepspat-website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Contact</title>
       <link>http://andrewzm.github.io/deepspat-website/contact/</link>
@@ -13,7 +18,7 @@
       
       <guid>http://andrewzm.github.io/deepspat-website/contact/</guid>
       <description>For more information on the project, please contact me using any of the below:
- Address: School of Mathematics and Applied Statistics, University of Wollongong NSW 2522, Australia E-mail: azm [at] uow.edu.au Twitter: @andrewzm Phone: +61 0242215112  If you would like to keep up to date with my research, subscribe to my blog on my personal web page.</description>
+ Address: School of Mathematics and Applied Statistics, University of Wollongong NSW 2522, Australia E-mail: azm [at] uow.edu.au Twitter: @andrewzm Phone: +61 0242215112  If you would like to keep up to date with my research, please subscribe to the blog on my personal web page.</description>
     </item>
     
     <item>
@@ -33,16 +38,16 @@
       <pubDate>Thu, 02 Dec 2021 14:02:14 +1100</pubDate>
       
       <guid>http://andrewzm.github.io/deepspat-website/collaborators/</guid>
-      <description>Collaborators   
+      <description>Collaborators  
 Noel Cressie
  Distinguished Professor at the University of Wollongong, Australia
-      
+    
 Nicholas Deutscher
  Senior Research Fellow at the University of Wollongong, Australia
-      
+    
 Maurizio Filippone
  AXA Chair of Computational Statistics and Associate Professor at EURECOM, France
-      
+    
 Raphaël Huser
  Assistant Professor at the King Abdullah University of Science and Technology, Saudi Arabia</description>
     </item>
@@ -54,13 +59,13 @@ Raphaël Huser
       
       <guid>http://andrewzm.github.io/deepspat-website/project/</guid>
       <description>Overview of the project.
-    &amp;nbsp;
+   &amp;nbsp;
 Project 1
 Description of Project 1.
-Read more         &amp;nbsp;
+Read more      &amp;nbsp;
 Project 1
 Description of Project 1. Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.Description of Project 1.
-Read more   </description>
+Read more </description>
     </item>
     
   </channel>
