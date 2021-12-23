@@ -5,7 +5,7 @@ draft: false
 include_footer: true
 ---
 
-The following is a list of publications on work was partially or fully supported by [**Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203**](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE180100203).
+The following is a list of publications on work that was partially or fully supported by [**Australian Research Council (ARC) Discovery Early Career Research Award (DECRA) DE180100203**](https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DE180100203).
 
 &nbsp;
 
