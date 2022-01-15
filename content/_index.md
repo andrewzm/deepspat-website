@@ -137,8 +137,8 @@ service:
       content : "Some computationally-intensive numerical models, such as Lagrangian Particle Dispersion Models (LPDMs), take a spatio-temporal location as an input (e.g., a source location) and generate a spatio-temporal output (e.g., the spatio-temporal evolution of a gas). In this project, led by [Laura Cartwright](https://scholar.google.com/citations?user=CMee9DIAAAAJ&hl=en), and together with [Nicholas Deutscher](https://scholars.uow.edu.au/display/nicholas_deutscher), we take advantage of spatial and temporal correlations of the numerical-model output to emulate outputs at other, new, input locations. Emulation is done on a small-dimensional space constructed via a convolutional variational autoencoder. "
       button:
         enable : true
-        label : "Coming soon"
-        link : ""
+        label : "Read more"
+        link : "https://arxiv.org/abs/2112.12524"
 
 
     - title : "Multi-Resolution Spatial Modelling"
