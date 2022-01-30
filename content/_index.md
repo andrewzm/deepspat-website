@@ -126,8 +126,8 @@ service:
       content : "Geophysical event data (e.g., earthquake occurrence) are often presented to the analyst as a set of spherical coordinates. Here, in this project led by [James Ng](https://scholar.google.com/citations?user=a2ahoJIAAAAJ&hl=en), we use radial flows within a measure transport framework to constuct a flexible model for the intensity function of a non-homogeneous point process on the sphere."
       button:
         enable : true
-        label : "Coming soon"
-        link : ""
+        label : "Read more"
+        link : "https://arxiv.org/abs/2201.09485"
 
 
 
