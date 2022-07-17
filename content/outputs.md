@@ -9,11 +9,27 @@ The following is a list of publications on work that was partially or fully supp
 
 &nbsp;
 
+### 2022
+
+- T.L.J. Ng and A. Zammit-Mangion (2022), “[**Non-homogeneous Poisson process intensity modelling and estimation using measure transport**](https://arxiv.org/abs/2007.00248),” in press with *Bernoulli*.
+
+- C.K. Wikle and A. Zammit-Mangion, “[**Statistical Deep Learning for Spatial and Spatio-Temporal Data**](https://arxiv.org/abs/2206.02218),” in press with *Annual Review of Statistics and Its Application*.
+
+- L. Cartwright, Zammit-Mangion, A. and N. Deutscher, “[**Emulation of greenhouse-gas sensitivities using variational autoencoders**](https://arxiv.org/abs/2112.12524),” in press with *Environmetrics*.
+
+- T.L.J. Ng and A. Zammit-Mangion (2022) “[**Spherical Poisson point process intensity function modeling and estimation with measure transport**](https://www.sciencedirect.com/science/article/pii/S2211675322000215),” *Spatial Statistics*, 50, 100629.
+
+- B. Beck, A. Zammit-Mangion, R. Fry, K. Smith, and B. Gabbe (2022), “[**Spatiotemporal mapping of major trauma in Victoria, Australia**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266521),” *PLOS One*, 17(7):e0266521.
+
+- N. Cressie, M. Bertolacci, and A. Zammit-Mangion (2022), “[**From many to one: Consensus inference in a MIP**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL098277),” *Geophysical Research Letters*, 49, e2022GL098277.
+
+- S. Chuter, A. Zammit-Mangion, J. Rougier, G. Dawson, and J.L. Bamber (2021), “[**Mass evolution of the Antarctic Peninsula over the last two decades from a joint Bayesian inversion**](https://tc.copernicus.org/preprints/tc-2021-178/),” *The Cryosphere*, 16, 1349–1367.
+
+
 ### 2021
 
 - A. Zammit-Mangion<sup>\*</sup>, M. Bertolacci<sup>\*</sup>, J. Fisher, A. Stavert, M. Rigby, Y. Cao and N. Cressie (2021), “[**WOMBAT: A fully Bayesian global flux-inversion framework**](https://gmd.copernicus.org/preprints/gmd-2021-181/),” in press with *Geophysical Model Development*. <sup>\*</sup>Contributed equally.
 
-- S. Chuter, A. Zammit-Mangion, J. Rougier, G. Dawson, and J.L. Bamber (2021), “[**Mass evolution of the Antarctic Peninsula over the last two decades from a joint Bayesian inversion**](https://tc.copernicus.org/preprints/tc-2021-178/),” in press with *The Cryosphere*.
 
 - N. Cressie, M. Sainsbury-Dale and A. Zammit-Mangion (2021), “[**Basis-function models in spatial statistics**](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-040120-020733),” in press with *Annual Review of Statistics and Its Application*.
 
