@@ -6,6 +6,9 @@ include_footer: true
 ---
 
 ![ ](deepspat-website/images/circularquay.jpg)
+*<sub><sup>Image credit: [Pratyeka](https://commons.wikimedia.org/wiki/File:Circular_Quay_from_Sydney_Harbour_Bridge_(2015-02-08).jpg). The above image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) [Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.</sup></sub>*
+
+
 
 **When**: 24-25 October 2022
 
