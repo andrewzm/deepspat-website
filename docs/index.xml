@@ -68,5 +68,18 @@ Description of Project 1. Description of Project 1.Description of Project 1.Desc
 Read more </description>
     </item>
     
+    <item>
+      <title>Workshop on Statistical Deep Learning</title>
+      <link>http://andrewzm.github.io/deepspat-website/workshop/</link>
+      <pubDate>Sun, 18 Jul 2021 14:02:25 +1100</pubDate>
+      
+      <guid>http://andrewzm.github.io/deepspat-website/workshop/</guid>
+      <description>When: 24-25 October 2022
+Where: Sydney Business School Level 10, 1 Macquarie Place, Sydney
+Price: Free
+Registration: Please register here. Note that places are limited; please wait for a confirmation e-mail from the organiser after you register.
+About: This workshop aims to bring together researchers in the region that are interested in topics at the interface of deep learning and statistics. It will be based around a set of talks, and there will be time for discussion and networking between the talks.</description>
+    </item>
+    
   </channel>
 </rss>
