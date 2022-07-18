@@ -11,11 +11,12 @@ include_footer: true
 
 **Where**: Sydney Business School Level 10, 1 Macquarie Place, Sydney
 
-**Price**: Free
-
 **About**: This workshop aims to bring together researchers in the region that are interested in topics at the interface of deep learning and statistics. It will be based around a set of talks, and there will be time for discussion and networking between the talks. The workshop, which is an in-person event, is 1.5 days long, and will finish at noon on the 25th October. Refreshments and lunch on the 24th October are provided. Space is limited; please let us know at azm@uow.edu.au if you register, plans change, and you need to cancel registration. 
 
-**Registration**: Please register [**here**](https://docs.google.com/forms/d/e/1FAIpQLSfKFmrZkOzeR2sslVGVKRaEShotN11wCp3S3Ia-aklf9GtqgQ/viewform?usp=sf_link). You will need a Google account to register (preferred method of registration); if you don't have one please e-mail your details and dietary requirements directly to azm@uow.edu.au. 
+
+**Registration Fee**: The workshop is free of charge.
+
+**Registration Form**: Please register [**here**](https://docs.google.com/forms/d/e/1FAIpQLSfKFmrZkOzeR2sslVGVKRaEShotN11wCp3S3Ia-aklf9GtqgQ/viewform?usp=sf_link). You will need a Google account to register (preferred method of registration); if you don't have one please e-mail your details and dietary requirements directly to azm@uow.edu.au. 
 
 ### Workshop Programme
 
