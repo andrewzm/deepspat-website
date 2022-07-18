@@ -5,7 +5,7 @@ draft: false
 include_footer: true
 ---
 
-![ ](images/circularquay.jpg)
+![ ](deepspat-website/images/circularquay.jpg)
 
 **When**: 24-25 October 2022
 
