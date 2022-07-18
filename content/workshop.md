@@ -6,9 +6,6 @@ include_footer: true
 ---
 
 ![ ](deepspat-website/images/circularquay.jpg)
-*<sub><sup>Image credit: [Pratyeka](https://commons.wikimedia.org/wiki/File:Circular_Quay_from_Sydney_Harbour_Bridge_(2015-02-08).jpg). The above image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) [Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.</sup></sub>*
-
-
 
 **When**: 24-25 October 2022
 
@@ -17,8 +14,6 @@ include_footer: true
 **Price**: Free
 
 **About**: This workshop aims to bring together researchers in the region that are interested in topics at the interface of deep learning and statistics. It will be based around a set of talks, and there will be time for discussion and networking between the talks. The workshop, which is an in-person event, is 1.5 days long, and will finish at noon on the 25th October. Refreshments and lunch on the 24th October are provided. Space is limited to 40 attendees; please let us know at azm@uow.edu.au if plans change and you need to cancel registration. There will be a waiting list if capacity is exceeded.
-
-This event is supported by the Australian Research Council (ARC DE180100203).
 
 **Registration**: Please register [**here**](https://docs.google.com/forms/d/e/1FAIpQLSfKFmrZkOzeR2sslVGVKRaEShotN11wCp3S3Ia-aklf9GtqgQ/viewform?usp=sf_link). You will need a Google account to register (preferred method of registration); if you don't have one please e-mail your details and dietary requirements directly to azm@uow.edu.au. Note that places are limited; please wait for a confirmation e-mail after you register (one or two working days).
 
@@ -33,3 +28,8 @@ Workshop will start at **09:00 am on Monday 24th October** and end **at noon on 
 - Edwin Bonilla (CSIRO): Bayesian deep learning in practice.
 - Michael Smith (University of Melbourne): Deep learning for copula models.
 
+### Acknowledgements
+
+This event is supported by the Australian Research Council (ARC DE180100203). 
+
+Image credit: [Pratyeka](https://commons.wikimedia.org/wiki/File:Circular_Quay_from_Sydney_Harbour_Bridge_(2015-02-08).jpg). The header image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) [Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
