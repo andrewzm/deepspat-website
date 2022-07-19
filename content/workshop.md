@@ -30,7 +30,7 @@ Workshop will start at **09:00 am on Monday 24th October** and end **at noon on 
 
 ### Acknowledgements
 
-![ ](deepspat-website/images/ARC_Logo.jpg =250x)
+![ ](deepspat-website/images/ARC_Logo.eps)
 
 This event is supported by the Australian Research Council (ARC DE180100203). 
 
