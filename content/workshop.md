@@ -30,6 +30,8 @@ Workshop will start at **09:00 am on Monday 24th October** and end **at noon on 
 
 ### Acknowledgements
 
+![ ](deepspat-website/images/ARC_Logo.jpg)
+
 This event is supported by the Australian Research Council (ARC DE180100203). 
 
 Image credit: [Pratyeka](https://commons.wikimedia.org/wiki/File:Circular_Quay_from_Sydney_Harbour_Bridge_(2015-02-08).jpg). The header image is licensed under the [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) [Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en) license.
