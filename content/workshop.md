@@ -25,7 +25,7 @@ Workshop will start at **09:00 am on Monday 24th October** and end **at noon on 
 - Maurizio Filippone (EURECOM): Bayesian deep learning.
 - Andrew Zammit-Mangion (University of Wollongong): Deep learning for spatial statistics.
 - Minh-Ngoc Tran (University of Sydney): Deep learning for generalised linear mixed models.
-- Edwin Bonilla (CSIRO): Bayesian deep learning in practice.
+- Edwin Bonilla (CSIRO): Scalable inference in Gaussian process and deep Gaussian process models.
 - Michael Smith (University of Melbourne): Deep learning for copula models.
 
 ### Acknowledgements
