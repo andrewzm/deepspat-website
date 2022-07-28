@@ -16,7 +16,7 @@ include_footer: true
 
 **Registration Fee**: The workshop is free of charge.
 
-**Registration Form**: Please <span style="color:blue"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfKFmrZkOzeR2sslVGVKRaEShotN11wCp3S3Ia-aklf9GtqgQ/viewform?usp=sf_link">register here</a></span>. You will need a Google account to register (preferred method of registration); if you don't have one please e-mail your details and dietary requirements directly to azm@uow.edu.au. 
+**Registration Form**: Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKFmrZkOzeR2sslVGVKRaEShotN11wCp3S3Ia-aklf9GtqgQ/viewform?usp=sf_link"><span style="color:blue">register here</span></a>. You will need a Google account to register (preferred method of registration); if you don't have one please e-mail your details and dietary requirements directly to azm@uow.edu.au. 
 
 ### Workshop Programme
 
